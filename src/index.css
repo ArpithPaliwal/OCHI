@@ -2,13 +2,13 @@
 
 @font-face {
   font-family: 'FoundersGrotesk-semibold';
-  src: url('./assets/fonts/FoundersGrotesk-semibold.ttf') format('truetype');
+  src: url('/fonts/FoundersGrotesk-semibold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'NeueMontreal-Regular';
-  src: url('./assets/fonts/NeueMontreal-Regular.ttf') format('truetype');
+  src: url('/fonts/NeueMontreal-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
